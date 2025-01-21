@@ -276,7 +276,7 @@
   <string name="search">Procurar</string>
   <string name="search_apps">Pesquisar aplicativos</string>
   <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-  <string name="ambient_display_screen_off_udfps_title">Impressão digital com tela desligada</string>
+  <string name="ambient_display_screen_off_udfps_title">Impressão digital com a tela apagada</string>
   <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-  <string name="ambient_display_screen_off_udfps_summary">Permitir desbloquear com a impresão digital mesmo com a tela desligada.\nA ativação pode causar ativações acidentais.</string>
+  <string name="ambient_display_screen_off_udfps_summary">Permitir desbloquear com a impresão digital mesmo com a tela apagada.\nA ativação pode causar ativações acidentais.</string>
 </resources>
